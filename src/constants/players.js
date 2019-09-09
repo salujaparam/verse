@@ -14,7 +14,7 @@ export default [
     },
     {
         image: shado,
-        name: "Hrishekesh",
+        name: "Hrishikesh",
         title: "Captain of the team",
         description: "Playing call of duty since 2012 and is high on weed most of the time."
     },

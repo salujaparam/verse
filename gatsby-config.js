@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `verSe Gaming`,
+    description: `Gamers don't fear the Apocalypse. We've seen it many times before.`,
+    author: `@paramsaluja`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -15,6 +15,8 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    `gatsby-plugin-transition-link`,
+    `gatsby-background-image`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

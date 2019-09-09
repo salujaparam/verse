@@ -1,6 +1,7 @@
 import React from "react"
 import {graphql} from 'gatsby'
 import StyledHero from '../components/StyledHero'
+import Games from '../components/Games'
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -10,8 +11,7 @@ const IndexPage = ({data}) => (
     <SEO title="Home" />
     <StyledHero img={data.defaultBcg.childImageSharp.fluid}>
     </StyledHero>
-    <h1>Welcome to verSe Gaming</h1>
-    <p>Enjoy your stay.</p>
+    <Games />
   </Layout>
 )
 

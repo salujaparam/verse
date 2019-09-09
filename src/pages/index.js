@@ -17,7 +17,7 @@ const IndexPage = ({data}) => (
 
 export const query = graphql`
 {
-	defaultBcg:file(relativePath: {eq:"verse.jpeg"}){
+	defaultBcg:file(relativePath: {eq:"vers.jpeg"}){
     childImageSharp{
       fluid(quality: 90, maxWidth: 4160){
         ...GatsbyImageSharpFluid_withWebp

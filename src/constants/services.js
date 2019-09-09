@@ -1,4 +1,4 @@
-import cod from '../images/cod.jpeg'
+import cod from '../images/codd.jpg'
 import pubg from '../images/pubg.jpeg'
 import csgo from '../images/csgo.jpeg'
 

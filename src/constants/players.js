@@ -33,8 +33,8 @@ export default [
     {
         image: kunal,
         name: "Kunal",
-        title: "Noob in every game",
-        description: "Playing call of duty since 2010 and is continuously being rekt."
+        title: "Good at smg",
+        description: "Playing call of duty since 2015 and is hoping to become a good scoper."
     },
     {
         image: killer,

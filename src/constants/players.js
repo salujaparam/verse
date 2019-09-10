@@ -1,8 +1,8 @@
 import marco from '../images/marco.jpg'
 import shado from '../images/hrishekesh.jpg'
 import kbr from '../images/kbr.jpeg'
-import kunal from '../images/kunal.jpeg'
-import killer from '../images/killer.jpeg'
+import kunal from '../images/aloy.jpeg'
+import sneh from '../images/sneh.jpeg'
 import satyaki from '../images/satyaki.jpeg'
 import param from '../images/param.jpg'
 import monk from '../images/monk.jpeg'
@@ -58,9 +58,9 @@ export default [
         description: "Playing call of duty since 2015 and is hoping to become a good scoper."
     },
     {
-        image: killer,
-        name: "Bhargav (killer)",
-        title: "No words to describe him",
-        description: "Good at heart but as dumb as a person can get."
+        image: sneh,
+        name: "Sneh (wamfi)",
+        title: "Bot of the team",
+        description: "Just started gaming and the newest member of the team."
     },
 ]

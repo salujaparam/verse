@@ -10,7 +10,7 @@ import SEO from "../components/seo"
 const IndexPage = ({data}) => (
   <Layout>
     <SEO title="Home" />
-    <StyledHero img={data.defaultBcg.childImageSharp.fluid}>
+    <StyledHero home="true" img={data.defaultBcg.childImageSharp.fluid}>
     </StyledHero>
     <Games />
     <Players />

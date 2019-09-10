@@ -13,6 +13,6 @@ export default [
 
     {
         icon: <FaInstagram />,
-        url: 'https://www.instagram.com/param.saluja/'
+        url: 'https://www.instagram.com/__versegaming__/'
     }
 ]

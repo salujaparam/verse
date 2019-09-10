@@ -18,7 +18,7 @@ export default [
     {
         image: kunal,
         title: "Kunal",
-        games: ["Call of Duty 4", "Battlefield Bad Company 2", "Mario"],
+        games: ["Call of Duty 4", "Battlefield Bad Company 2", "Medal of Honor"],
         link: "https://www.youtube.com/aloypro71"
     }
 ]

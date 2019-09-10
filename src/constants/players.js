@@ -1,4 +1,4 @@
-import marco from '../images/marco.jpg'
+import marco from '../images/shikhar.jpeg'
 import shado from '../images/hrishekesh.jpg'
 import kbr from '../images/kbr.jpeg'
 import kunal from '../images/aloy.jpeg'

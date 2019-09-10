@@ -49,13 +49,13 @@ export default [
         image: satyaki,
         name: "Satyaki (blkzu)",
         title: "Bakchod of the group",
-        description: "Playing call of duty since 2008 and is a graphic engineer at the moment."
+        description: "Playing call of duty since 2008 and strafe master but still dies in every rush."
     },
     {
         image: kunal,
         name: "Kunal (aloy)",
-        title: "Good at smg",
-        description: "Playing call of duty since 2015 and is hoping to become a good scoper."
+        title: "Confused soul",
+        description: "Hoping to become a good scoper but still fights for smg."
     },
     {
         image: sneh,

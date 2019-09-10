@@ -3,12 +3,14 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import StyledHero from '../components/StyledHero'
+import Youtube from '../components/Youtube'
 
 const About = ({data}) => (
   <Layout>
     <SEO title="About" />
     <StyledHero img={data.defaultBcg.childImageSharp.fluid}>
     </StyledHero>
+    <Youtube />
   </Layout>
 )
 

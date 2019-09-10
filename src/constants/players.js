@@ -37,7 +37,7 @@ export default [
         image: kbr,
         name: "Aakash (kbr)",
         title: "Pro in every game",
-        description: "Playing call of duty and  since 2017 and is an elite player in pubg pc lite."
+        description: "Lucker of the team whose bachelor's degree is on the line, still gives zero fucks about it."
     },
     {
         image: zeus,

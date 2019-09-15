@@ -7,7 +7,7 @@ import satyaki from '../images/satyaki.jpeg'
 import param from '../images/param.jpg'
 import monk from '../images/monk.jpeg'
 // import zeus from '../images/zeus.jpeg'
-import killer from '../images/bhargav.jpeg'
+import killer from '../images/killer.jpeg'
 
 export default [
     {
@@ -68,6 +68,6 @@ export default [
         image: killer,
         name: "Bhargav (killer)",
         title: "No words to descibe him",
-        description: "Good at heart but as dumb as a person can get."
+        description: "Good at heart and noob in every game."
     },
 ]

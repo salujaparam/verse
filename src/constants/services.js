@@ -16,6 +16,6 @@ export default [
     {
         icon: csgo,
         title: "cs go",
-        text: "All players in our team are gold nova."
+        text: "All players in our team are global elite's"
     }
 ]

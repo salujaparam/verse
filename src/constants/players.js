@@ -6,8 +6,7 @@ import sneh from '../images/sneh.jpeg'
 import satyaki from '../images/satyaki.jpeg'
 import param from '../images/param.jpg'
 import monk from '../images/monk.jpeg'
-// import zeus from '../images/zeus.jpeg'
-import killer from '../images/killer.jpeg'
+import shin from '../images/shin.jpeg'
 
 export default [
     {
@@ -40,12 +39,12 @@ export default [
         title: "Pro in every game",
         description: "Lucker of the team whose bachelor's degree is on the line, still gives zero fucks about it."
     },
-    // {
-    //     image: zeus,
-    //     name: "Gandu (zeus)",
-    //     title: "Always cries",
-    //     description: "Asking cover from smg's while doing ak since 2008."
-    // },
+    {
+        image: shin,
+        name: "Gaurav (shin)",
+        title: "Always the bottom fragger",
+        description: "Played in H2K, Fnatic and now is the proud owner of Shin gaming."
+    },
     {
         image: satyaki,
         name: "Satyaki (blkzu)",
@@ -63,11 +62,5 @@ export default [
         name: "Sneh (wamfi)",
         title: "Bot of the team",
         description: "Just started gaming and the newest member of the team."
-    },
-    {
-        image: killer,
-        name: "Bhargav (killer)",
-        title: "No words to descibe him",
-        description: "Good at heart and noob in every game."
     },
 ]

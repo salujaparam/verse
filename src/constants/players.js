@@ -7,7 +7,7 @@ import satyaki from '../images/satyaki.jpeg'
 import param from '../images/param.jpg'
 import monk from '../images/monk.jpeg'
 import shin from '../images/shin.jpeg'
-import giri from '../images/giri.jpeg'
+import giri from '../images/giti.jpeg'
 import dizz from '../images/dizz.jpeg'
 
 export default [

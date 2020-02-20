@@ -7,6 +7,8 @@ import satyaki from '../images/satyaki.jpeg'
 import param from '../images/param.jpg'
 import monk from '../images/monk.jpeg'
 import shin from '../images/shin.jpeg'
+import giri from '../images/giri.jpeg'
+import dizz from '../images/dizz.jpeg'
 
 export default [
     {
@@ -62,5 +64,17 @@ export default [
         name: "Sneh (wamfi)",
         title: "Bot of the team",
         description: "Just started gaming and the newest member of the team."
+    },
+        {
+        image: dizz,
+        name: "Dakshina (kingdizz)",
+        title: "Noob Scoper",
+        description: "The biggest camper of sl esports gaming community."
+    },
+        {
+        image: giri,
+        name: "Saluka (giri yaka)",
+        title: "Good Ak player",
+        description: "Is in a commited relationship with kingdizz."
     },
 ]
